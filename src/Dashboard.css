@@ -1,0 +1,33 @@
+/* src/Dashboard.css */
+  
+  .dashboard-title {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #444;
+  }
+  
+  .movie-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .movie-item {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #e9ecef;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .movie-item:hover {
+    background-color: #d6d8db;
+  }
+  /* src/Dashboard.css */
+.dashboard {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
